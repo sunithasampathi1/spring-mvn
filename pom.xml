@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.datanlabs</groupId>
 	<artifactId>spring-mvn-micro</artifactId>
-	<version>0.0.5-SNAPSHOT</version>
+	<version>0.0.5.${currentBuild.number}-SNAPSHOT</version>
 	<name>springboot-maven-course-micro-svc</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
